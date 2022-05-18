@@ -16,5 +16,5 @@ pages within our own website are called relative links. No domain is needed when
 want to go to is on the same site. Anchor tags creat html links and the href attribute redirects
 the user to the value destination. 
 Example: href="./pages/about.html"
-Bys adding (./) you are specifying to your code that it should start looking for the file directory
+By adding (./) you are specifying to your code that it should start looking for the file directory
 relative to current directory. 
